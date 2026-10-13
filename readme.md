@@ -7,7 +7,7 @@
 <div align="center">
 
 <!-- Replace with a 1280x640 banner: dark space background, violet→cyan gradient, CrestVibe wordmark -->
-<img src="https://placehold.co/1280x320/0B0B1A/7C3AED?text=CrestVibe&font=montserrat" alt="CrestVibe" width="100%" />
+<img src="crestvibe-github-banner.png" alt="CrestVibe" width="100%" />
 
 # CrestVibe
 
