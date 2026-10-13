@@ -17,7 +17,7 @@
 
 [![Website](https://img.shields.io/badge/Website-crestvibe.com-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white)](https://crestvibe.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-CrestVibe-06B6D4?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/crestvibe)
-[![Contact](https://img.shields.io/badge/Start_a_Project-Get_in_touch-0B0B1A?style=for-the-badge&logo=maildotru&logoColor=06B6D4)]([[https://crestvibe.com](https://crestvibe.com/#contact)](https://crestvibe.com/#contact))
+[![Contact](https://img.shields.io/badge/Start_a_Project-Get_in_touch-0B0B1A?style=for-the-badge&logo=maildotru&logoColor=06B6D4)]([[https://crestvibe.com](https://crestvibe.com)](https://crestvibe.com/#contact))
 
 </div>
 
