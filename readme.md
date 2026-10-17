@@ -131,7 +131,7 @@ We're getting started on GitHub. Watch this space for public repositories, start
 
 Have a product to build, an AI feature to ship, or a process to automate?
 
-- 🌐 **Website:** [crestvibe.com](https://crestvibe.com)
+- 🌐 **Website:** [crestvibe.com](https://www.crestvibe.com)
 - 💼 **LinkedIn:** [linkedin.com/company/crestvibe](https://www.linkedin.com/company/crestvibe)
 - 📩 **Email:** info@crestvibe.com <!-- replace with your real address, or delete this line -->
 
